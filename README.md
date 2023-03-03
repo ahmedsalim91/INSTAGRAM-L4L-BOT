@@ -11,15 +11,13 @@ Automatic recieve like4like credits used for free followers and subscribes
     <br>
 <p>&nbsp;For <b>l4lytl.py</b> {Youtube Video Like}
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows 10 Display resolution to 1366 × 768 </li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows 10 Display resolution to 1366 × 768 </li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-create new tab in chrome and Change chrome size to 80% and dont close new tab opened</li></p>
-<br>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;change windows 10 Display resolution to 1366 × 768 </li>
+   <br>
 <p>&nbsp;For <b>l4ltf.py</b>  {Twitter follow}</p>
-&nbsp;&nbsp;&nbsp;&nbsp;-Change windows display resolution to 1366 × 768
-&nbsp;&nbsp;&nbsp;&nbsp;-open chrome New tab, adjust window size to 67%
-&nbsp;&nbsp;&nbsp;&nbsp;-dont close new tab
-    
+<li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows display resolution to 1366 × 768 </li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;-open chrome New tab, adjust window size to 67% </li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;-dont close new tab </li>
+    </p>
 <p>&nbsp;Rquired <b>python libraries</b>:-</p>
 <br>
 <li>-webbrowser</li>
