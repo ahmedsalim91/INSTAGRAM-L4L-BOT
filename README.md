@@ -3,13 +3,13 @@ Automatic recieve like4like credits used for free followers and subscribes
 <h2>Usage conditions and rules:-</h2>
 <br>
 <b>Make sure you have created an account on like4like.org</b>
-<br/>
+<br>
  <p>For <b>l4lyts.py</b> {Youtube Subscribe}</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows display resolution to 1366 × 768</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-open chrome New tab, adjust window size to 67%</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-dont close new tab </li>
     </p>
-    <br/>
+    <br>
 &nbsp;For <b>l4lytl.py</b> {Youtube Video Like}
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows 10 Display resolution to 1366 × 768 
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows 10 Display resolution to 1366 × 768 
@@ -21,6 +21,7 @@ Automatic recieve like4like credits used for free followers and subscribes
 &nbsp;&nbsp;&nbsp;&nbsp;-dont close new tab
     
 <p>&nbsp;Rquired <b>python libraries</b>:-</p>
+<br>
 <li>-webbrowser</li>
 <li>-pyautogui</li>
 
