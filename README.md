@@ -41,7 +41,19 @@ Automatic recieve like4like credits used for free followers and subscribes
  </li>
  <li>download chrome webdriver according to your chrome version: 
  example: <img src="https://github.com/ahmedsalim91/INSTAGRAM-L4L-BOT/assets/86109516/b734ede9-3e7f-4c00-80c3-82bb39642913" /> i will download **ChromeDriver 114.0.5735.90**
-
+ </li>
+</p>
+<p>
+ <b>Setup python</b>
+ <li>Download the zip file by click on Code button:
+ <img src="https://github.com/ahmedsalim91/INSTAGRAM-L4L-BOT/assets/86109516/64f785a4-9ded-41bc-9903-f51f6536390f"/>
+ </li>
+ <li>extract the zip file in any directory , then open terminal by typing "cmd" on path
+ <img src="https://github.com/ahmedsalim91/INSTAGRAM-L4L-BOT/assets/86109516/82fa3c33-9858-4a9c-9449-e856ceee078b" />
+ </li>
+ <li>
+  enter command: <b>"pip install -r requirements.txt"</b> then enter it will start downloading libraries, if you are getting any error related to pip then try to add python folder in path
+  
  </li>
 </p>
 <br>
