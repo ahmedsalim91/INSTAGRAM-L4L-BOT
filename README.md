@@ -3,6 +3,8 @@ Automatic recieve like4like credits used for free followers and subscribes
 <h2>Usage conditions and rules:-</h2>
 <br>
 <br>
+<h3>Note that l4lytl.py and l4lyts.py are not tested , this can be tested soon in newer version.</h3>
+
  <p>For <b>l4lyts.py</b> {Youtube Subscribe}</li>
 <li&nbsp;&nbsp;&nbsp;&nbsp;>Create account on youtube.com </li>
 
