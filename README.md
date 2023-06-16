@@ -6,7 +6,8 @@ Automatic recieve like4like credits used for free followers and subscribes
  Download chrome from: <a href="https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjwkLCkBhA9EiwAka9QRsTqVi96zm5W0V30BVikw7GKMWFRTU148QlVl4hc4DIqBJaGRd9fexoCKDEQAvD_BwE&gclsrc=aw.ds"> https://www.google.com/chrome/</a>
  <br>
  Make chrome as default:
- <b>For Windows 10 -</b>
+ <br>
+ &nbsp;&nbsp;<b>For Windows 10 -</b>
 
    1. Open the "Settings" app. You can do this by clicking on the "Start" menu and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
    2.  In the Settings window, click on the "Apps" category.
@@ -15,7 +16,7 @@ Automatic recieve like4like credits used for free followers and subscribes
    5.  A list of available web browsers will appear. Select "Google Chrome" from the list.
    6.  Close the Settings app. Google Chrome is now set as the default browser for Windows 10.
 <br>
-<b>For Windows 11</b>
+&nbsp;&nbsp;<b>For Windows 11</b>
    1. Open the "Settings" app. You can do this by clicking on the "Start" button and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
    2. In the Settings window, click on the "Apps" category.
    3. On the left sidebar, click on "Default apps."
