@@ -6,8 +6,8 @@ Automatic recieve like4like credits used for free followers and subscribes
 <br>
  <p>For <b>l4lyts.py</b> {Youtube Subscribe}</li>
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows display resolution to 1366 × 768</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;-open chrome New tab, adjust window size to 67%</li>
-<li>&nbsp;&nbsp;&nbsp;&nbsp;-dont close new tab </li></p>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;-Set chrome as default browser from settings</li></p>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;-open https://like4like.org/ and change size to 67% , don't close tab</li></p>
     <br>
 <p>&nbsp;For <b>l4lytl.py</b> {Youtube Video Like}
 <li>&nbsp;&nbsp;&nbsp;&nbsp;-Change windows 10 Display resolution to 1366 × 768 </li>
