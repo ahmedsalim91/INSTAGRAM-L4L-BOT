@@ -19,10 +19,15 @@ Automatic recieve like4like credits used for free followers and subscribes
 <p>
 &nbsp;&nbsp;<b>For Windows 11</b>
    1. Open the "Settings" app. You can do this by clicking on the "Start" button and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
+ <br>
    2. In the Settings window, click on the "Apps" category.
+ <br>
    3. On the left sidebar, click on "Default apps."
+ <br>
    4. In the Default apps section, locate the "Web browser" option and click on it.
+ <br>
    5. A list of available web browsers will appear. Select "Google Chrome" from the list.
+ <br>
    6. Close the Settings app. Google Chrome is now set as the default browser for Windows 11.
 </p>
 
