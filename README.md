@@ -33,7 +33,17 @@ Automatic recieve like4like credits used for free followers and subscribes
  <br>
    6. Close the Settings app. Google Chrome is now set as the default browser for Windows 11.
 </p>
+<p>
+ <b>Download <a href="https://chromedriver.chromium.org/downloads">chrome webdriver</a></b>
+ <li>Open chrome and <a href="chrome://version">type chrome://version in url</a></li>
+ <li>See your chrome version:
+ example: <img src="https://github.com/ahmedsalim91/INSTAGRAM-L4L-BOT/assets/86109516/30e6a7c1-8828-4ddf-9d2a-e53c9b15749a" /> my version is 114.0.5753
+ </li>
+ <li>download chrome webdriver according to your chrome version: 
+ example: <img src="https://github.com/ahmedsalim91/INSTAGRAM-L4L-BOT/assets/86109516/b734ede9-3e7f-4c00-80c3-82bb39642913" /> i will download **ChromeDriver 114.0.5735.90**
 
+ </li>
+</p>
 <br>
 <h2 id="#rules">Not work without: </h2>
 <br>
