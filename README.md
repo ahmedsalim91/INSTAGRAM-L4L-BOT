@@ -35,7 +35,7 @@ Automatic recieve like4like credits used for free followers and subscribes
 </p>
 
 <br>
-<h2 id="rules">Not work without: </h2>
+<h2 id="#rules">Not work without: </h2>
 <br>
 <br>
 <h3>Note that l4lytl.py and l4lyts.py are not tested , this can be tested soon in newer version.</h3>
