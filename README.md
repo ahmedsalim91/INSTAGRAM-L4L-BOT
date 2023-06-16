@@ -19,6 +19,8 @@ Automatic recieve like4like credits used for free followers and subscribes
 </p>
 <p>
 &nbsp;&nbsp;<b>For Windows 11</b>
+ 
+ <br>
    1. Open the "Settings" app. You can do this by clicking on the "Start" button and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
  <br>
    2. In the Settings window, click on the "Apps" category.
