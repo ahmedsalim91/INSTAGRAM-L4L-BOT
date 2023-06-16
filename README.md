@@ -1,14 +1,15 @@
 # Like-4-Like-BOT
 Automatic recieve like4like credits used for free followers and subscribes
 <h2>How to use:</h2>
-<p><a href="#rules"> <b>Firstly, read the rules and regulations</b></a>
+<p>
+ <a href="#rules"> <b>Firstly, read the rules and regulations</b></a>
 <br>
  Download chrome from: <a href="https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjwkLCkBhA9EiwAka9QRsTqVi96zm5W0V30BVikw7GKMWFRTU148QlVl4hc4DIqBJaGRd9fexoCKDEQAvD_BwE&gclsrc=aw.ds"> https://www.google.com/chrome/</a>
  <br>
  Make chrome as default:
  <br>
  &nbsp;&nbsp;<b>For Windows 10 -</b>
-
+ <br>
    1. Open the "Settings" app. You can do this by clicking on the "Start" menu and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
    2.  In the Settings window, click on the "Apps" category.
    3.  On the left sidebar, click on "Default apps."
