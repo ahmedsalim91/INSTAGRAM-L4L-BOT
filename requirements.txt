@@ -1,0 +1,4 @@
+pyautogui
+time
+webbrowser
+selenium
