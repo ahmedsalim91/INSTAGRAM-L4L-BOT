@@ -1,6 +1,31 @@
 # Like-4-Like-BOT
 Automatic recieve like4like credits used for free followers and subscribes
-<h2>Usage conditions and rules:-</h2>
+<h2>How to use:</h2>
+<p><a href="#rules"> <b>Firstly, read the rules and regulations</b></a>
+<br>
+ Download chrome from: <a href="https://www.google.com/chrome/?brand=CHBD&gclid=CjwKCAjwkLCkBhA9EiwAka9QRsTqVi96zm5W0V30BVikw7GKMWFRTU148QlVl4hc4DIqBJaGRd9fexoCKDEQAvD_BwE&gclsrc=aw.ds"> https://www.google.com/chrome/</a>
+ <br>
+ Make chrome as default:
+ <b>For Windows 10 -</b>
+
+   1. Open the "Settings" app. You can do this by clicking on the "Start" menu and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
+   2.  In the Settings window, click on the "Apps" category.
+   3.  On the left sidebar, click on "Default apps."
+   4.  Scroll down to the "Web browser" section and click on the current default browser (e.g., Microsoft Edge).
+   5.  A list of available web browsers will appear. Select "Google Chrome" from the list.
+   6.  Close the Settings app. Google Chrome is now set as the default browser for Windows 10.
+<br>
+<b>For Windows 11</b>
+   1. Open the "Settings" app. You can do this by clicking on the "Start" button and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
+   2. In the Settings window, click on the "Apps" category.
+   3. On the left sidebar, click on "Default apps."
+   4. In the Default apps section, locate the "Web browser" option and click on it.
+   5. A list of available web browsers will appear. Select "Google Chrome" from the list.
+   6. Close the Settings app. Google Chrome is now set as the default browser for Windows 11.
+</p>
+
+<br>
+<h2 id="rules">Not work without: </h2>
 <br>
 <br>
 <h3>Note that l4lytl.py and l4lyts.py are not tested , this can be tested soon in newer version.</h3>
