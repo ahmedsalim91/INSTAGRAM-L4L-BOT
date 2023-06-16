@@ -15,7 +15,8 @@ Automatic recieve like4like credits used for free followers and subscribes
    4.  Scroll down to the "Web browser" section and click on the current default browser (e.g., Microsoft Edge).
    5.  A list of available web browsers will appear. Select "Google Chrome" from the list.
    6.  Close the Settings app. Google Chrome is now set as the default browser for Windows 10.
-<br>
+</p>
+<p>
 &nbsp;&nbsp;<b>For Windows 11</b>
    1. Open the "Settings" app. You can do this by clicking on the "Start" button and selecting the gear icon, or by pressing the Windows key + I on your keyboard.
    2. In the Settings window, click on the "Apps" category.
